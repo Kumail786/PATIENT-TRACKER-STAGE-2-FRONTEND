@@ -1,7 +1,7 @@
 # PATIENT-TRACKER-STAGE-2-FRONTEND
 
 
-This App has been designed For Doctors.Doctors Can Use this app to Track Their Patients. In stage 1. I have Used React Native Cli for Client Side Work
+This App has been designed For Doctors.Doctors Can Use this app to Track Their Patients. In stage 2. I have Used React Native Cli for Client Side Work
 
 Features Of This App:
 

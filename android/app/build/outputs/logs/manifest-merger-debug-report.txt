@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-search-bar] /home/kumail/firstproject/node_modules/react-native-search-bar/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-5:12
+MERGED from [:react-native-vector-icons] /home/kumail/firstproject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/kumail/firstproject/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /home/kumail/.gradle/caches/transforms-2/files-2.1/4a7349140bd706b34558cce50e2f7957/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/kumail/.gradle/caches/transforms-2/files-2.1/9f4f6c04349119a3395e42e9080d98ac/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/kumail/.gradle/caches/transforms-2/files-2.1/887dbaf52387dff471fea415c0e60582/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/b2e4bdec51040e87a4f61f8765bf0740/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/79470048c6f16996155851f2c4ce48df/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d5988aaf9378ef0a6c9811e522fbb718/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/149c61b2733bb11ebd27411bb1e62704/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8cb9306d723ee940a4c54b5a7b76f065/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/82214761b864090a7f91465eff2b409e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/c912d4b480460e7a3cd59407e7860cfc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d94c438b7607c8dd68eb951b159c3326/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f0c1614acde1c32d02e20baab36bdfde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/3711703637ed7f822e607e498a15ef66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f699405ea087ed25da06c26be504ff74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/e0fd16fa5318e38257c9276c57fd436b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/fb0ea4ff5690efd72ae4f4852a066878/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d03425cdb02636df19158c36a7c41e37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f7aa6c3e1ea0b7b07a7428a9870fe53c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/85d8a92acd270e0f06d3020fb31f63b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/5c8ee70e877e269a0900a628507deafd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8892cc4a06f6168232a70a350c87ac75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/7faf954fd81a81aba701681e16714c60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/bc2d62c0dbf7d49f29565adec1a8ed36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/6fe16adad8e2b581676e0d76e008ec3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/12a8ad0031f91d056003cce2af1e0635/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/50de36ef61b76200da3b8fd63d825bb9/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/53d54bd6aecfab28b1235c37f1bb98ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d2576213963cff24b12e66646682be98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/224ba213f6a9004129e9b13489ea6320/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/4f5a39b53f75c182ab03388479f3ddeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/c765d3d4ce581ae17c6a8f40794778e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8c78abb9c0a61c00d2d8a2321f3ebaf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/cc2bbcb41dc6ef566ce13c7ac40db8d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f80aa3a80c3f962a6bf727634ea15e15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/5265bdd4ba19d0789a6e073478e544dd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/40f904838823c0e9189d60cc04cb31d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/0ef0a0aa3893d6a9281afe824695698b/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.react:react-native:0.61.4] /home/kumail/.gradle/caches/transforms-2/files-2.1/4a7349140bd706b34558cce50e2f7957/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /home/kumail/.gradle/caches/transforms-2/files-2.1/4a7349140bd706b34558cce50e2f7957/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d94c438b7607c8dd68eb951b159c3326/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d94c438b7607c8dd68eb951b159c3326/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/12a8ad0031f91d056003cce2af1e0635/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/12a8ad0031f91d056003cce2af1e0635/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/50de36ef61b76200da3b8fd63d825bb9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/50de36ef61b76200da3b8fd63d825bb9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/12a8ad0031f91d056003cce2af1e0635/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.firstproject.MainActivity
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:14:7-24:18
+	android:screenOrientation
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:16:9-45
+	android:label
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/kumail/firstproject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/kumail/firstproject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/kumail/firstproject/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/kumail/firstproject/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/kumail/.gradle/caches/transforms-2/files-2.1/4a7349140bd706b34558cce50e2f7957/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/kumail/.gradle/caches/transforms-2/files-2.1/4a7349140bd706b34558cce50e2f7957/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/kumail/.gradle/caches/transforms-2/files-2.1/9f4f6c04349119a3395e42e9080d98ac/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/kumail/.gradle/caches/transforms-2/files-2.1/9f4f6c04349119a3395e42e9080d98ac/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/kumail/.gradle/caches/transforms-2/files-2.1/887dbaf52387dff471fea415c0e60582/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/kumail/.gradle/caches/transforms-2/files-2.1/887dbaf52387dff471fea415c0e60582/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/b2e4bdec51040e87a4f61f8765bf0740/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/b2e4bdec51040e87a4f61f8765bf0740/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/79470048c6f16996155851f2c4ce48df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/79470048c6f16996155851f2c4ce48df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d5988aaf9378ef0a6c9811e522fbb718/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d5988aaf9378ef0a6c9811e522fbb718/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/149c61b2733bb11ebd27411bb1e62704/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/149c61b2733bb11ebd27411bb1e62704/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8cb9306d723ee940a4c54b5a7b76f065/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8cb9306d723ee940a4c54b5a7b76f065/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/82214761b864090a7f91465eff2b409e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/82214761b864090a7f91465eff2b409e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/c912d4b480460e7a3cd59407e7860cfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/c912d4b480460e7a3cd59407e7860cfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d94c438b7607c8dd68eb951b159c3326/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d94c438b7607c8dd68eb951b159c3326/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f0c1614acde1c32d02e20baab36bdfde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f0c1614acde1c32d02e20baab36bdfde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/3711703637ed7f822e607e498a15ef66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/3711703637ed7f822e607e498a15ef66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f699405ea087ed25da06c26be504ff74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f699405ea087ed25da06c26be504ff74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/e0fd16fa5318e38257c9276c57fd436b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/e0fd16fa5318e38257c9276c57fd436b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/fb0ea4ff5690efd72ae4f4852a066878/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/fb0ea4ff5690efd72ae4f4852a066878/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d03425cdb02636df19158c36a7c41e37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d03425cdb02636df19158c36a7c41e37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f7aa6c3e1ea0b7b07a7428a9870fe53c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f7aa6c3e1ea0b7b07a7428a9870fe53c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/85d8a92acd270e0f06d3020fb31f63b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/85d8a92acd270e0f06d3020fb31f63b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/5c8ee70e877e269a0900a628507deafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/5c8ee70e877e269a0900a628507deafd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8892cc4a06f6168232a70a350c87ac75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8892cc4a06f6168232a70a350c87ac75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/7faf954fd81a81aba701681e16714c60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/7faf954fd81a81aba701681e16714c60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/bc2d62c0dbf7d49f29565adec1a8ed36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/bc2d62c0dbf7d49f29565adec1a8ed36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/6fe16adad8e2b581676e0d76e008ec3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/6fe16adad8e2b581676e0d76e008ec3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/12a8ad0031f91d056003cce2af1e0635/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/kumail/.gradle/caches/transforms-2/files-2.1/12a8ad0031f91d056003cce2af1e0635/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/50de36ef61b76200da3b8fd63d825bb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/50de36ef61b76200da3b8fd63d825bb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/53d54bd6aecfab28b1235c37f1bb98ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/53d54bd6aecfab28b1235c37f1bb98ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d2576213963cff24b12e66646682be98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/d2576213963cff24b12e66646682be98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/224ba213f6a9004129e9b13489ea6320/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/224ba213f6a9004129e9b13489ea6320/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/4f5a39b53f75c182ab03388479f3ddeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/4f5a39b53f75c182ab03388479f3ddeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/c765d3d4ce581ae17c6a8f40794778e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/c765d3d4ce581ae17c6a8f40794778e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8c78abb9c0a61c00d2d8a2321f3ebaf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/8c78abb9c0a61c00d2d8a2321f3ebaf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/cc2bbcb41dc6ef566ce13c7ac40db8d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/cc2bbcb41dc6ef566ce13c7ac40db8d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f80aa3a80c3f962a6bf727634ea15e15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/f80aa3a80c3f962a6bf727634ea15e15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/5265bdd4ba19d0789a6e073478e544dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/5265bdd4ba19d0789a6e073478e544dd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/40f904838823c0e9189d60cc04cb31d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/40f904838823c0e9189d60cc04cb31d1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/0ef0a0aa3893d6a9281afe824695698b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/kumail/.gradle/caches/transforms-2/files-2.1/0ef0a0aa3893d6a9281afe824695698b/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kumail/firstproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:2:1-8:12 reason: org.umhan35 has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:2:1-8:12 reason: org.umhan35 has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/kumail/firstproject/android/app/src/debug/AndroidManifest.xml:2:1-8:12 reason: org.umhan35 requested WRITE_EXTERNAL_STORAGE

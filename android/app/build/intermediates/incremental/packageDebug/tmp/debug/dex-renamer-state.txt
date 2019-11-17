@@ -1,4 +1,4 @@
-#Thu Nov 14 19:48:50 PKT 2019
-base.0=/home/kumail/firstproject/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sun Nov 17 13:58:37 PKT 2019
+base.0=/home/kumail/Desktop/firstproject/frontend/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

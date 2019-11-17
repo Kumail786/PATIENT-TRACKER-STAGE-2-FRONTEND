@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/kumail/firstproject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+            "outputFile": "/home/kumail/Desktop/firstproject/frontend/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
                     "source": "/home/kumail/.gradle/caches/transforms-2/files-2.1/887dbaf52387dff471fea415c0e60582/res/values-ky/values-ky.xml",
